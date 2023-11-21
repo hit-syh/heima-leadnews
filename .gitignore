@@ -1,0 +1,8 @@
+# Default ignored files
+
+/.idea/
+
+# Ignore target folder
+/*/target/
+
+/WorkSpacesIDEAheima-leadnewslogs/
